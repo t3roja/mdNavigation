@@ -2,7 +2,7 @@ import React from 'react'
 import { View, Text, StyleSheet, BackHandler } from 'react-native'
 
 
-export default function SecondScreen() {
+export default function SecondScreen({route}) {
 
     return (
         <>
