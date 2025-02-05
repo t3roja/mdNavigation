@@ -13,7 +13,6 @@ export default function SecondScreen({route}) {
     )
 }
 
-
 const styles = StyleSheet.create({
     container: {
         flex: 1,
